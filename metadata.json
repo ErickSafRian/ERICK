@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dindong Pisang",
+  "description": "Game Mesin Dindong Pisang Fantasi klasik retro arcade dengan sistem taruhan koin, bonus jackpot, double up, dan sistem top up QRIS, DANA, serta E-Wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
